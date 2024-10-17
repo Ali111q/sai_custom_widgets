@@ -1,10 +1,10 @@
 name: sai_custom_widgets
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+repository: https://github.com/Ali111q/sai_custom_widgets.git
 
 environment:
-  sdk: '>=3.4.1 <4.0.0'
+  sdk: ">=3.4.1 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
   gap: ^3.0.1
   get: ^4.6.6
+  meta: ^1.12.0
 
 dev_dependencies:
   flutter_test:
