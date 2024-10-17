@@ -2,6 +2,7 @@ name: sai_custom_widgets
 description: "A collection of customizable and reusable Flutter widgets to simplify UI development. This package includes widgets for layout gaps, state management with GetX, and more to help developers build responsive and dynamic UIs easily."
 version: 0.0.1
 repository: https://github.com/Ali111q/sai_custom_widgets.git
+publish_to: https://pub.dev/publishers/dorto-dev.com
 
 environment:
   sdk: ">=3.4.1 <4.0.0"
@@ -12,7 +13,7 @@ dependencies:
     sdk: flutter
   gap: ^3.0.1
   get: ^4.6.6
-  meta: ^1.9.1 # Add this line to include the meta package
+  meta: ^1.9.1
 
 dev_dependencies:
   flutter_test:
